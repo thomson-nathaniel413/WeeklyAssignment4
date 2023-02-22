@@ -97,6 +97,7 @@ Partial Class frmAirbnb
         'lblTotalCost
         '
         Me.lblTotalCost.AutoSize = True
+        Me.lblTotalCost.BackColor = System.Drawing.SystemColors.Window
         Me.lblTotalCost.Location = New System.Drawing.Point(639, 204)
         Me.lblTotalCost.Name = "lblTotalCost"
         Me.lblTotalCost.Size = New System.Drawing.Size(91, 20)
